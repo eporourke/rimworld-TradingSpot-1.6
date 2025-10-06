@@ -1,24 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-    <name>[GMT] Trading Spot</name>
-    <author>Grizzlemethis</author>
+    <name>1.6 Trading Spot</name>
+    <author>Gwytherinn</author>
     <supportedVersions>
         <li>1.0</li>
         <li>1.1</li>
         <li>1.2</li>
         <li>1.3</li>
         <li>1.4</li>
+        <li>1.5</li>
+        <li>1.6</li>
     </supportedVersions>
-    <url>https://discord.gg/8NnTJMCVdk</url>
 <description>
 &lt;color=purple&gt;&lt;b&gt;About &lt;/b&gt;&lt;/color&gt;
 A designated spot for traders to stop at.
 
-Auther this release is based on: Kiame Vivacity 
+Auther this release is based on: Grizzlemethis 
 
 Original Author: TheUbie
 </description>
-    <packageId>Grizzlemethis.TradingSpot.RW</packageId>
+    <packageId>1point6.TradingSpot.RW</packageId>
 <modDependencies>
     <li>
         <packageId>brrainz.harmony</packageId>
